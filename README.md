@@ -24,3 +24,7 @@ By creating calculated fields to represent returns and using visualizations, I w
 Part 4: Submitting The Project
 
 I will extract and prepare the data locally for my Tableau dashboard. After building and publishing the dashboard on Tableau Public, I will compress all relevant files, including the data file and dashboard link, into a ZIP archive and submit it for review.
+
+
+Tableau link for the project:
+https://public.tableau.com/app/profile/norbert7856/viz/N_Huszti-Sprint3TableauProject/Part1_1ShipmodeSegment
