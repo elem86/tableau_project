@@ -1,5 +1,5 @@
-# tableau_project
-Saving SuperStore
+# Tableau Project
+## Saving SuperStore
 
 I have been hired as a consultant to review the superstore's operations and increase its profitability to avoid bankruptcy. For each numbered question in this project, I will produce a separate visualization.
 
@@ -26,5 +26,5 @@ Part 4: Submitting The Project
 I will extract and prepare the data locally for my Tableau dashboard. After building and publishing the dashboard on Tableau Public, I will compress all relevant files, including the data file and dashboard link, into a ZIP archive and submit it for review.
 
 
-Tableau link for the project:
-https://public.tableau.com/app/profile/norbert7856/viz/N_Huszti-Sprint3TableauProject/Part1_1ShipmodeSegment
+Tableau [link](https://pages.github.com/](https://public.tableau.com/app/profile/norbert7856/viz/N_Huszti-Sprint3TableauProject/Part1_1ShipmodeSegment)https://public.tableau.com/app/profile/norbert7856/viz/N_Huszti-Sprint3TableauProject/Part1_1ShipmodeSegment) for the project.
+
